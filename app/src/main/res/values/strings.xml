@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blood Cooling Device Simulator</string>
+    <string name="bt_service_name">blood_cooling_bt_service</string>
+    <string name="uuid">73121cc2-6941-4d63-ac52-a2b441d6c27d</string>
+</resources>
